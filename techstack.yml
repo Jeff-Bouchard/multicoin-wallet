@@ -1,0 +1,1948 @@
+repo_name: Jeff-Bouchard/multicoin-wallet
+report_id: de1e5e14e3eb875d13240ccc1202e904
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:54:29+00:00'
+requested_by: jdknives
+provider: github
+branch: master
+detected_tools_count: 135
+tools:
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/vendor/github.com/blang/semver/package.json
+  detection_source: vendor/github.com/blang/semver/package.json
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: D
+  description: Modern convenience. Modeling power. Native efficiency.
+  website_url: http://dlang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3117/d-5.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/vendor/github.com/blang/semver/package.json
+  detection_source: vendor/github.com/blang/semver/package.json
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: Go Ethereum
+  description: Open source platform to write and distribute decentralized applications
+  website_url: https://geth.ethereum.org/
+  license: LGPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/9003/DOnqq1OM_400x400.jpg
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.mod
+  detection_source: go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: Golang
+  description: An open source programming language that makes it easy to build simple,
+    reliable, and efficient software
+  website_url: http://golang.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/vendor/github.com/blang/semver/package.json
+  detection_source: vendor/github.com/blang/semver/package.json
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/vendor/github.com/blang/semver/package.json
+  detection_source: vendor/github.com/blang/semver/package.json
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/vendor/github.com/blang/semver/package.json
+  detection_source: vendor/github.com/blang/semver/package.json
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/vendor/github.com/blang/semver/package.json
+  detection_source: vendor/github.com/blang/semver/package.json
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: Azure Storage
+  description: Reliable, economical cloud storage for data big and small
+  website_url: http://azure.microsoft.com/en-us/services/storage/
+  open_source: false
+  hosted_saas: true
+  category: Data Stores
+  sub_category: Cloud Storage
+  image_url: https://img.stackshare.io/service/2099/azureStorage.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/vendor/github.com/ethereum/go-ethereum/go.mod
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: GraphQL
+  description: A data query language and runtime
+  website_url: http://graphql.org/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Query Languages
+  image_url: https://img.stackshare.io/service/3820/12972006.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/vendor/github.com/ethereum/go-ethereum/go.mod
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: Codecov
+  description: Hosted coverage reports with awesome features to enhance your CI workflow
+  website_url: https://codecov.io/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Coverage
+  image_url: https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/vendor/github.com/elastic/gosigar/codecov.yml
+  detection_source: vendor/github.com/elastic/gosigar/codecov.yml
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/vendor/github.com/ethereum/go-ethereum/Dockerfile
+  detection_source: vendor/github.com/ethereum/go-ethereum/Dockerfile
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet
+  detection_source: Repo Metadata
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/vendor/github.com/blang/semver/package.json
+  detection_source: vendor/github.com/blang/semver/package.json
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/vendor/github.com/blang/semver/package.json
+  detection_source: vendor/github.com/blang/semver/package.json
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/vendor/github.com/blang/semver/package.json
+  detection_source: vendor/github.com/blang/semver/package.json
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: Testify
+  description: A toolkit with common assertions and mocks that plays nicely with the
+    standard library
+  website_url: https://github.com/stretchr/testify
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Go Testing
+  image_url: https://img.stackshare.io/service/8695/stretchr.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.mod
+  detection_source: go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/.travis.yml
+  detection_source: ".travis.yml"
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: Vagrant
+  description: A tool for building and distributing development environments
+  website_url: http://www.vagrantup.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Management
+  image_url: https://img.stackshare.io/service/768/150px-Vagrant.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/vendor/github.com/elastic/gosigar/Vagrantfile
+  detection_source: vendor/github.com/elastic/gosigar/Vagrantfile
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: hub
+  description: Wraps Git with extra features that make working with GitHub easier
+    (by GitHub)
+  website_url: http://hub.github.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Git Tools
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/vendor/github.com/blang/semver/package.json
+  detection_source: vendor/github.com/blang/semver/package.json
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/vendor/github.com/blang/semver/package.json
+  detection_source: vendor/github.com/blang/semver/package.json
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet
+  detection_source: Repo Metadata
+- name: OneOfOne/xxhash
+  description: A native implementation of the excellent XXHash hashing algorithm
+  package_url: https://pkg.go.dev/github.com/OneOfOne/xxhash
+  version: 1.2.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/VictoriaMetrics/fastcache/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: adal
+  description: This package implements an HTTP request pipeline suitable for use across
+    multiple go-routines and provides the shared routines relied on by AutoRest generated
+    Go code
+  package_url: https://pkg.go.dev/github.com/Azure/go-autorest/autorest/adal
+  version: 0.5.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: ansi
+  description: Small, fast library to create ANSI colored strings and codes
+  package_url: https://pkg.go.dev/github.com/mgutz/ansi
+  version: 0.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: autorest
+  description: This package implements an HTTP request pipeline suitable for use across
+    multiple go-routines and provides the shared routines relied on by AutoRest generated
+    Go code
+  package_url: https://pkg.go.dev/github.com/Azure/go-autorest/autorest
+  version: 0.9.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: aws-sdk-go
+  description: AWS SDK for the Go programming language
+  package_url: https://pkg.go.dev/github.com/aws/aws-sdk-go
+  version: 1.25.48
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: backoff
+  description: The exponential backoff algorithm in Go
+  package_url: https://pkg.go.dev/github.com/cenkalti/backoff
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.mod
+  detection_source: go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: bigcache
+  description: Efficient cache for gigabytes of data written in Go
+  package_url: https://pkg.go.dev/github.com/allegro/bigcache
+  version: 1.2.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/VictoriaMetrics/fastcache/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: blackfriday
+  description: 'Blackfriday: a markdown processor for Go'
+  package_url: https://pkg.go.dev/github.com/russross/blackfriday
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/vendor/github.com/ethereum/go-ethereum/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.sum
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: bolt
+  description: An embedded key/value database for Go
+  package_url: https://pkg.go.dev/github.com/boltdb/bolt
+  version: 1.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: btcd
+  description: An alternative full node bitcoin implementation written in Go
+  package_url: https://pkg.go.dev/github.com/btcsuite/btcd
+  version: 0.0.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: cespare/xxhash
+  description: A Go implementation of the 64-bit xxHash algorithm
+  package_url: https://pkg.go.dev/github.com/cespare/xxhash
+  version: 1.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/VictoriaMetrics/fastcache/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: check.v1
+  description: Package check is a rich testing extension for Go's testing package
+  package_url: https://pkg.go.dev/gopkg.in/check.v1
+  version: 0.0.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.sum
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: cli.v1
+  description: Package cli provides a minimal framework for creating and organizing
+    command line Go applications
+  package_url: https://pkg.go.dev/gopkg.in/urfave/cli.v1
+  version: 1.20.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: client_model
+  description: Data model artifacts for Prometheus
+  package_url: https://pkg.go.dev/github.com/prometheus/client_model
+  version: 0.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.sum
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: cloudflare-go
+  description: Go library for the Cloudflare v4 API
+  package_url: https://pkg.go.dev/github.com/cloudflare/cloudflare-go
+  version: 0.10.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: color
+  description: Color package for Go
+  package_url: https://pkg.go.dev/github.com/fatih/color
+  version: 1.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: common
+  description: Go libraries shared across Prometheus components and libraries
+  package_url: https://pkg.go.dev/github.com/prometheus/common
+  version: 0.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.sum
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: cors
+  description: Go net/http configurable handler to handle CORS requests
+  package_url: https://pkg.go.dev/github.com/rs/cors
+  version: 0.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: cp
+  description: File copying for Go
+  package_url: https://pkg.go.dev/github.com/cespare/cp
+  version: 0.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: crypto
+  description: Go supplementary cryptography libraries
+  package_url: https://pkg.go.dev/golang.org/x/crypto
+  version: 0.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+  vulnerabilities:
+  - name: Improper Verification of Cryptographic Signature in golang.org/x/crypto
+    cve_id: CVE-2020-9283
+    cve_url: https://github.com/advisories/GHSA-ffhg-7mh4-33c4
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 0.0.0-20200220183623-bac4c82f6975
+- name: date
+  description: This package implements an HTTP request pipeline suitable for use across
+    multiple go-routines and provides the shared routines relied on by AutoRest generated
+    Go code
+  package_url: https://pkg.go.dev/github.com/Azure/go-autorest/autorest/date
+  version: 0.1.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.sum
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: decimal
+  description: Arbitrary-precision fixed-point decimal numbers in go
+  package_url: https://pkg.go.dev/github.com/shopspring/decimal
+  version: 0.0.0
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: errors
+  description: Simple error handling primitives
+  package_url: https://pkg.go.dev/github.com/pkg/errors
+  version: 0.8.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.sum
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: fastcache
+  description: Fast thread-safe inmemory cache for big number of entries in Go
+  package_url: https://pkg.go.dev/github.com/VictoriaMetrics/fastcache
+  version: 1.5.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/VictoriaMetrics/fastcache/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: fsnotify
+  description: Cross-platform file system notifications for Go
+  package_url: https://pkg.go.dev/github.com/fsnotify/fsnotify
+  version: 1.4.7
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.sum
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: fsnotify.v1
+  description: Cross-platform file system notifications for Go
+  package_url: https://pkg.go.dev/gopkg.in/fsnotify.v1
+  version: 1.4.7
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.sum
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: ginkgo
+  description: BDD Testing Framework for Go
+  package_url: https://pkg.go.dev/github.com/onsi/ginkgo
+  version: 1.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.sum
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: go-autorest
+  description: This package implements an HTTP request pipeline suitable for use across
+    multiple go-routines and provides the shared routines relied on by AutoRest generated
+    Go code
+  package_url: https://pkg.go.dev/github.com/Azure/go-autorest
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/vendor/github.com/ethereum/go-ethereum/go.mod
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: go-autorest/logger
+  description: This package implements an HTTP request pipeline suitable for use across
+    multiple go-routines and provides the shared routines relied on by AutoRest generated
+    Go code
+  package_url: https://pkg.go.dev/github.com/Azure/go-autorest/logger
+  version: 0.1.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.sum
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: go-bip39
+  description: A BIP39 implementation in Go
+  package_url: https://pkg.go.dev/github.com/tyler-smith/go-bip39
+  version: 1.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: go-colorable
+  description: Go-colorable Colorable writer for windows
+  package_url: https://pkg.go.dev/github.com/mattn/go-colorable
+  version: 0.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: go-difflib
+  description: Partial port of Python difflib package to Go
+  package_url: https://pkg.go.dev/github.com/pmezard/go-difflib
+  version: 1.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/NYTimes/gziphandler/go.sum
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: go-ethereum
+  description: Official Go implementation of the Ethereum protocol
+  package_url: https://pkg.go.dev/github.com/ethereum/go-ethereum
+  version: 1.9.12
+  license: LGPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+  vulnerabilities:
+  - name: Denial of service in go-ethereum due to CVE-2020-28362
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-m6gx-rhvj-fh52
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 1.9.24
+  - name: Denial of Service in Go-Ethereum
+    cve_id: CVE-2022-23327
+    cve_url: https://github.com/advisories/GHSA-pvx3-gm3c-gmpr
+    detected_date: Mar 12
+    severity: high
+    first_patched: 
+  - name: Denial of Service in Go-Ethereum
+    cve_id: CVE-2022-23328
+    cve_url: https://github.com/advisories/GHSA-vmf7-hmh6-vv57
+    detected_date: Mar 12
+    severity: high
+    first_patched: 
+  - name: Denial of service in go-ethereum
+    cve_id: CVE-2021-42219
+    cve_url: https://github.com/advisories/GHSA-vrcc-g6vj-mh5w
+    detected_date: Mar 22
+    severity: high
+    first_patched: 
+  - name: Denial of service in github.com/ethereum/go-ethereum
+    cve_id: CVE-2020-26264
+    cve_url: https://github.com/advisories/GHSA-r33q-22hv-j29q
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 1.9.25
+  - name: Shallow copy bug in geth
+    cve_id: CVE-2020-26241
+    cve_url: https://github.com/advisories/GHSA-69v6-xc2j-r2jf
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 1.9.17
+  - name: Erroneous Proof of Work calculation in geth
+    cve_id: CVE-2020-26240
+    cve_url: https://github.com/advisories/GHSA-v592-xf75-856p
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 1.9.24
+  - name: Consensus flaw during block processing in github.com/ethereum/go-ethereum
+    cve_id: CVE-2020-26265
+    cve_url: https://github.com/advisories/GHSA-xw37-57qp-9mm4
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 1.9.20
+  - name: Denial of Service in Go-Ethereum
+    cve_id: CVE-2021-43668
+    cve_url: https://github.com/advisories/GHSA-5m8f-chrv-7rw5
+    detected_date: Jan 18
+    severity: moderate
+    first_patched: 
+  - name: 'DoS via maliciously crafted p2p message '
+    cve_id: CVE-2021-41173
+    cve_url: https://github.com/advisories/GHSA-59hh-656j-3p7v
+    detected_date: Oct 26
+    severity: moderate
+    first_patched: 1.10.9
+- name: go-isatty
+  description: Package isatty implements interface to isatty
+  package_url: https://pkg.go.dev/github.com/mattn/go-isatty
+  version: 0.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: go-jmespath
+  description: Golang implementation of JMESPath
+  package_url: https://pkg.go.dev/github.com/jmespath/go-jmespath
+  version: 0.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.sum
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: go-md2man
+  description: Go-md2man ** Work in Progress ** This still needs a lot of help to
+    be complete
+  package_url: https://pkg.go.dev/github.com/cpuguy83/go-md2man
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/vendor/github.com/ethereum/go-ethereum/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.sum
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: go-nat-pmp
+  description: A Go language client for the NAT-PMP internet protocol for port mapping
+    and discovering the external IP address of a firewall
+  package_url: https://pkg.go.dev/github.com/jackpal/go-nat-pmp
+  version: 1.0.2
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: go-ole
+  description: Win32 ole implementation for golang
+  package_url: https://pkg.go.dev/github.com/go-ole/go-ole
+  version: 1.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: go-runewidth
+  description: Go-runewidth Provides functions to get fixed width of the character
+    or string
+  package_url: https://pkg.go.dev/github.com/mattn/go-runewidth
+  version: 0.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.sum
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: go-spew
+  description: Implements a deep pretty printer for Go data structures to aid in debugging
+  package_url: https://pkg.go.dev/github.com/davecgh/go-spew
+  version: 0.0.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/NYTimes/gziphandler/go.sum
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: go-stringutil
+  description: Faster string utilities implementation for Go
+  package_url: https://pkg.go.dev/github.com/naoina/go-stringutil
+  version: 0.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: goarista
+  description: Fairly general building blocks used in Arista Go code and open-sourced
+    for the benefit of all
+  package_url: https://pkg.go.dev/github.com/aristanetworks/goarista
+  version: 0.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: godebug
+  description: Debugging helper utilities for Go
+  package_url: https://pkg.go.dev/github.com/kylelemons/godebug
+  version: 1.1.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: gogo/protobuf
+  description: Protocol Buffers for Go with Gadgets
+  package_url: https://pkg.go.dev/github.com/gogo/protobuf
+  version: 1.1.1
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.sum
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+  vulnerabilities:
+  - name: Improper Input Validation in GoGo Protobuf
+    cve_id: CVE-2021-3121
+    cve_url: https://github.com/advisories/GHSA-c3h9-896r-86jm
+    detected_date: Mar 30
+    severity: high
+    first_patched: 1.3.2
+- name: goja
+  description: ECMAScript 5.1
+  package_url: https://pkg.go.dev/github.com/dop251/goja
+  version: 0.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: golang-lru
+  description: Golang LRU cache
+  package_url: https://pkg.go.dev/github.com/hashicorp/golang-lru
+  version: 0.0.0
+  license: MPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: golang-set
+  description: A simple set type for the Go language. Also used in Docker
+  package_url: https://pkg.go.dev/github.com/deckarep/golang-set
+  version: 0.0.0
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: golang_protobuf_extensions
+  description: Support for streaming Protocol Buffer messages for the Go language
+  package_url: https://pkg.go.dev/github.com/matttproud/golang_protobuf_extensions
+  version: 1.0.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.sum
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: goleveldb
+  description: LevelDB key/value database in Go
+  package_url: https://pkg.go.dev/github.com/syndtr/goleveldb
+  version: 1.0.1
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: gomega
+  description: Ginkgo's Preferred Matcher Library
+  package_url: https://pkg.go.dev/github.com/onsi/gomega
+  version: 1.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.sum
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: gosigar
+  description: Gathers system and per process statistics
+  package_url: https://pkg.go.dev/github.com/elastic/gosigar
+  version: 0.8.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: gotest.tools
+  description: A collection of packages to augment the go testing package and support
+    common patterns
+  package_url: https://pkg.go.dev/github.com/gotestyourself/gotest.tools
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/vendor/github.com/ethereum/go-ethereum/go.mod
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: goupnp
+  description: UPnP library for Go
+  package_url: https://pkg.go.dev/github.com/huin/goupnp
+  version: 0.0.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: graphql-go
+  description: GraphQL server with a focus on ease of use
+  package_url: https://pkg.go.dev/github.com/graph-gophers/graphql-go
+  version: 0.0.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+  vulnerabilities:
+  - name: Denial of Service in graphql-go
+    cve_id: CVE-2022-21708
+    cve_url: https://github.com/advisories/GHSA-mh3m-8c74-74xh
+    detected_date: Jan 28
+    severity: moderate
+    first_patched: 1.3.0
+- name: gziphandler
+  description: Go middleware to gzip HTTP responses
+  package_url: https://pkg.go.dev/github.com/NYTimes/gziphandler
+  version: 1.1.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: hamming
+  description: Hamming distance and bit counting primitives in Go
+  package_url: https://pkg.go.dev/github.com/steakknife/hamming
+  version: 0.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: httprouter
+  description: A high performance HTTP request router that scales well
+  package_url: https://pkg.go.dev/github.com/julienschmidt/httprouter
+  version: 1.1.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: influxdb
+  description: Scalable datastore for metrics
+  package_url: https://pkg.go.dev/github.com/influxdata/influxdb
+  version: 1.2.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: jwt-go
+  description: Golang implementation of JSON Web Tokens
+  package_url: https://pkg.go.dev/github.com/dgrijalva/jwt-go
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/vendor/github.com/ethereum/go-ethereum/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.sum
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: kingpin.v2
+  description: 'Package kingpin provides command line interfaces like this:'
+  package_url: https://pkg.go.dev/gopkg.in/alecthomas/kingpin.v2
+  version: 2.2.6
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.sum
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: kit
+  description: A standard library for microservices
+  package_url: https://pkg.go.dev/github.com/go-kit/kit
+  version: 0.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.sum
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: kr/logfmt
+  description: Parse logfmt messages
+  package_url: https://pkg.go.dev/github.com/kr/logfmt
+  version: 0.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.sum
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: kr/text
+  description: Miscellaneous functions for formatting text
+  package_url: https://pkg.go.dev/github.com/kr/text
+  version: 0.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.sum
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: liner
+  description: Pure Go line editor with history, inspired by linenoise
+  package_url: https://pkg.go.dev/github.com/peterh/liner
+  version: 1.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: logfmt
+  description: Package logfmt marshals and unmarshals logfmt messages
+  package_url: https://pkg.go.dev/github.com/go-logfmt/logfmt
+  version: 0.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.sum
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: logrus
+  description: Structured, pluggable logging for Go
+  package_url: https://pkg.go.dev/github.com/sirupsen/logrus
+  version: 1.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: mmap-go
+  description: A portable mmap package for Go
+  package_url: https://pkg.go.dev/github.com/edsrzf/mmap-go
+  version: 0.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: murmur3
+  description: Native MurmurHash3 Go implementation
+  package_url: https://pkg.go.dev/github.com/spaolacci/murmur3
+  version: 0.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/VictoriaMetrics/fastcache/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: naoina/toml
+  description: TOML parser and encoder library for Golang
+  package_url: https://pkg.go.dev/github.com/naoina/toml
+  version: 0.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: net
+  description: Go supplementary network libraries
+  package_url: https://pkg.go.dev/golang.org/x/net
+  version: 0.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: notify
+  description: File system event notification library on steroids
+  package_url: https://pkg.go.dev/github.com/rjeczalik/notify
+  version: 0.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: npipe.v2
+  description: Package npipe provides a pure Go wrapper around Windows named pipes
+  package_url: https://pkg.go.dev/gopkg.in/natefinch/npipe.v2
+  version: 2.0.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: objx
+  description: Go package for dealing with maps
+  package_url: https://pkg.go.dev/github.com/stretchr/objx
+  version: 0.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/NYTimes/gziphandler/go.sum
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: opentracing-go
+  description: OpenTracing API for Go
+  package_url: https://pkg.go.dev/github.com/opentracing/opentracing-go
+  version: 1.1.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.sum
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: perks
+  description: Effective Computation of Things
+  package_url: https://pkg.go.dev/github.com/beorn7/perks
+  version: 0.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.sum
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: pretty
+  description: Pretty printing for Go values
+  package_url: https://pkg.go.dev/github.com/kr/pretty
+  version: 0.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: procfs
+  description: Procfs provides functions to retrieve system
+  package_url: https://pkg.go.dev/github.com/prometheus/procfs
+  version: 0.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.sum
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: proto
+  description: Go support for Google's protocol buffers
+  package_url: https://pkg.go.dev/github.com/golang/protobuf/proto
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/vendor/github.com/ethereum/go-ethereum/go.mod
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: protobuf
+  description: Go support for Google's protocol buffers
+  package_url: https://pkg.go.dev/github.com/golang/protobuf
+  version: 1.2.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: pty
+  description: PTY interface for Go
+  package_url: https://pkg.go.dev/github.com/kr/pty
+  version: 1.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.sum
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: regexp2
+  description: A full-featured regex engine in pure Go based on the .NET engine
+  package_url: https://pkg.go.dev/github.com/dlclark/regexp2
+  version: 1.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: sanitized_anchor_name
+  description: Package sanitized_anchor_name provides a func to create sanitized anchor
+    names
+  package_url: https://pkg.go.dev/github.com/shurcooL/sanitized_anchor_name
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.sum
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: snappy
+  description: The Snappy compression format in the Go programming language
+  package_url: https://pkg.go.dev/github.com/golang/snappy
+  version: 0.0.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/VictoriaMetrics/fastcache/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: stack
+  description: Package stack implements utilities to capture
+  package_url: https://pkg.go.dev/github.com/go-stack/stack
+  version: 1.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: sys
+  description: Go packages for low-level interaction with the operating system
+  package_url: https://pkg.go.dev/golang.org/x/sys
+  version: 0.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: tablewriter
+  description: ASCII table in golang
+  package_url: https://pkg.go.dev/github.com/olekukonko/tablewriter
+  version: 0.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: tail
+  description: Go package for reading from continously updated files
+  package_url: https://pkg.go.dev/github.com/hpcloud/tail
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.sum
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: template
+  description: Fork of Go's text/template adding newline elision
+  package_url: https://pkg.go.dev/github.com/alecthomas/template
+  version: 0.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.sum
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: text
+  description: Go text processing support
+  package_url: https://pkg.go.dev/golang.org/x/text
+  version: 0.3.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: tomb.v1
+  description: The tomb package offers a conventional API for clean goroutine termination
+  package_url: https://pkg.go.dev/gopkg.in/tomb.v1
+  version: 1.0.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.sum
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: toml
+  description: TOML parser for Golang with reflection
+  package_url: https://pkg.go.dev/github.com/BurntSushi/toml
+  version: 0.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.sum
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: tools
+  description: Go Tools
+  package_url: https://pkg.go.dev/golang.org/x/tools
+  version: 0.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.sum
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: tsdb
+  description: The Prometheus time series database layer
+  package_url: https://pkg.go.dev/github.com/prometheus/tsdb
+  version: 0.6.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: ulid
+  description: Universally Unique Lexicographically Sortable Identifier
+  package_url: https://pkg.go.dev/github.com/oklog/ulid
+  version: 1.3.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.sum
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: units
+  description: Helpful unit multipliers and functions for Go
+  package_url: https://pkg.go.dev/github.com/alecthomas/units
+  version: 0.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.sum
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: urfave/cli
+  description: A simple
+  package_url: https://pkg.go.dev/github.com/urfave/cli
+  version: 1.22.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.sum
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: uuid
+  description: Automatically exported from code.google.com/p/go-uuid
+  package_url: https://pkg.go.dev/github.com/pborman/uuid
+  version: 0.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: websocket
+  description: A fast
+  package_url: https://pkg.go.dev/github.com/gorilla/websocket
+  version: 1.4.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: wmi
+  description: WMI for Go
+  package_url: https://pkg.go.dev/github.com/StackExchange/wmi
+  version: 0.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: xhandler
+  description: XHandler is a bridge between net/context and http.Handler
+  package_url: https://pkg.go.dev/github.com/rs/xhandler
+  version: 0.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.mod
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: yaml.v2
+  description: YAML support for the Go language
+  package_url: https://pkg.go.dev/gopkg.in/yaml.v2
+  version: 2.2.1
+  license: LGPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/go.sum
+  detection_source: vendor/github.com/ethereum/go-ethereum/go.sum
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+  vulnerabilities:
+  - name: Excessive Platform Resource Consumption within a Loop in Kubernetes
+    cve_id: CVE-2019-11254
+    cve_url: https://github.com/advisories/GHSA-wxc4-f4m6-wwqv
+    detected_date: Jan 28
+    severity: moderate
+    first_patched: 2.2.8
+- name: "@octokit/rest"
+  description: GitHub REST API client for Node.js
+  package_url: https://www.npmjs.com/@octokit/rest
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16999/default_43f23668e39c9b3381720c9c76540776b8a49167.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/vendor/github.com/blang/semver/package.json
+  detection_source: vendor/github.com/blang/semver/package.json
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: bl
+  description: 'Buffer List: collect buffers and access with a standard readable Buffer
+    interface'
+  package_url: https://www.npmjs.com/bl
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17221/default_183829c5079b84333a720d8590a328efc043ba0e.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/vendor/github.com/blang/semver/package.json
+  detection_source: vendor/github.com/blang/semver/package.json
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: co
+  description: Generator async control flow goodness
+  package_url: https://www.npmjs.com/co
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16007/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/vendor/github.com/blang/semver/package.json
+  detection_source: vendor/github.com/blang/semver/package.json
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: github
+  description: 'DEPRECATED: renamed to @octokit/rest'
+  package_url: https://www.npmjs.com/github
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16751/default_6dc099b12d47e378ae121fb53c336fe5d8f0ffc8.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/vendor/github.com/blang/semver/package.json
+  detection_source: vendor/github.com/blang/semver/package.json
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: http
+  package_url: https://www.npmjs.com/http
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16874/default_768abdabb94806c932ace6262b6bbc8241907245.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/vendor/github.com/blang/semver/package.json
+  detection_source: vendor/github.com/blang/semver/package.json
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: https
+  description: Https mediation
+  package_url: https://www.npmjs.com/https
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17546/default_8d32936cb624bf7f51657c1540463db0a3c4106e.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/vendor/github.com/blang/semver/package.json
+  detection_source: vendor/github.com/blang/semver/package.json
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: i
+  description: Custom inflections for nodejs
+  package_url: https://www.npmjs.com/i
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17326/default_66bbb2a75a0234b1bfceaa99b8e82825fa7b8284.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/vendor/github.com/blang/semver/package.json
+  detection_source: vendor/github.com/blang/semver/package.json
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: is
+  description: The definitive JavaScript type testing library
+  package_url: https://www.npmjs.com/is
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17544/default_e665c133253b5cd434c1991167ebd25dc68f1c17.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/vendor/github.com/blang/semver/package.json
+  detection_source: vendor/github.com/blang/semver/package.json
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: mv
+  description: Fs.rename but works across devices
+  package_url: https://www.npmjs.com/mv
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17889/default_788839e3786ca1ccd5da69cc550f25d0129fb180.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/vendor/github.com/blang/semver/package.json
+  detection_source: vendor/github.com/blang/semver/package.json
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: publish
+  description: Npm auto publishing of your modules
+  package_url: https://www.npmjs.com/publish
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18190/default_b56a957d927d2e40d2c7cf9f3588b95c4df2c97c.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/vendor/github.com/blang/semver/package.json
+  detection_source: vendor/github.com/blang/semver/package.json
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: semver
+  description: The semantic version parser used by npm
+  package_url: https://www.npmjs.com/semver
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18809/default_dad3dc9dde4b82dc2a7bd32aa091165887abe57b.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/vendor/github.com/blang/semver/package.json
+  detection_source: vendor/github.com/blang/semver/package.json
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
+- name: url
+  description: The core `url` packaged standalone for use with Browserify
+  package_url: https://www.npmjs.com/url
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16462/default_89ba91277e3434b03295bb11d22736632df1d04f.png
+  detection_source_url: https://github.com/Jeff-Bouchard/multicoin-wallet/blob/master/vendor/github.com/blang/semver/package.json
+  detection_source: vendor/github.com/blang/semver/package.json
+  last_updated_by: therealssj
+  last_updated_on: 2020-03-24 12:29:11.000000000 Z
